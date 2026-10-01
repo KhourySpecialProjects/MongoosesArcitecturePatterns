@@ -2,7 +2,7 @@
 
 Welcome to the Architectural Patterns exercise. This exercise explores and compares four key architectural styles and concepts using a demo task management system (**TaskFlow**):
 
-- **Monolith Architecture** (`apps/monolith`)(URL: postgres://postgres:rwlH0s3lf4fSdSN3aLat9trcOfo4oChu0t0Z9jH9vvE3r9esUmsekikJwQE4zWac@eguuw5vxbbcw9wkpetfdobim:5432/postgres)
+- **Monolith Architecture** (`apps/monolith`)(URL: http://lstxchrhmegomnxu72ftn6mt.174.138.47.192.sslip.io/)
 - **Microservices Architecture** (`apps/microservices`)(URL: http://ruh7tcound7kgrahgcxhwp8i.174.138.47.192.sslip.io/)
 - **Hexagonal Architecture / Ports & Adapters** (`apps/hexagonal-with-ui/hexagonal`)(URL: http://rkvtvqaoskwkc7sovcubqu5s.174.138.47.192.sslip.io/)
 - **Layered React UI Architecture** (`apps/hexagonal-with-ui/ui`)
